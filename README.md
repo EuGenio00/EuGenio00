@@ -5,8 +5,9 @@ Estudante do curso Técnico em Desenvolvimento de Sistemas pelo SENAI 🧑🏿�
 
 ![Eugénio GitHub stats](https://github-readme-stats.vercel.app/api?username=EuGenio00&show_icons=true&theme=onedark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuGenio00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias que uso no meu dia 
+## Tecnologias que uso no dia 
 
 
 <div style="display: inline_block"><br/>
