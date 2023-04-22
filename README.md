@@ -3,6 +3,11 @@
 
 Estudando o curso Técnico em Desenvolvimento de Sistemas pelo SENAI 🧑🏿‍🎓
 
+Eu me descreveria como uma pessoa bastante motivado, esforçado, dedicado e focado em resultados. No momento estou 100% dedicado em estudar, focar no meu desenvolvimento profissional e intelectual em programação de sistemas. Comecei aprendendo tecnologias como Javascript, HTML e CSS, MySQL, React e React-Native. Além do Git e GitHub, Bitbucket e VTEX.
+
+Tenho experiências em desenvolvimento web na criação de sites e-commerce para grandes lojas nacionais utilizando o framework VTEX. Assim sendo, espero conseguir entrar de vez na área de desenvolvimento e iniciar a minha jornada de DEV.
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/eug%C3%A9nio-mateus-5610ba223/)](https://www.linkedin.com/in/eug%C3%A9nio-mateus-5610ba223/)
 
 <a href="http://www.github.com/peguimasid"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=EuGenio00&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
