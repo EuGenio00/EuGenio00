@@ -12,8 +12,6 @@ Tenho experiências em desenvolvimento web na criação de sites e-commerce para
 
 <a href="http://www.github.com/peguimasid"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=EuGenio00&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuGenio00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Tecnologias que uso no dia 
 
 
