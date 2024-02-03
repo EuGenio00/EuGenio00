@@ -1,11 +1,11 @@
 
 ### Olá! Eu sou o Eugénio Mateus 🖐️
 
-Estudando o curso Técnico em Desenvolvimento de Sistemas pelo SENAI 🧑🏿‍🎓
+Estudando o curso Tecnólogo em Análises e Desenvolvimento de Sistemas na UNISUL🧑🏿‍🎓
 
 Eu me descreveria como uma pessoa bastante motivado, esforçado, dedicado e focado em resultados. No momento estou 100% dedicado em estudar, focar no meu desenvolvimento profissional e intelectual em programação de sistemas. Comecei aprendendo tecnologias como Javascript, HTML e CSS, MySQL, React e React-Native. Além do Git e GitHub, Bitbucket e VTEX.
 
-Tenho experiências em desenvolvimento web na criação de sites e-commerce para grandes lojas nacionais utilizando o framework VTEX. Assim sendo, espero conseguir entrar de vez na área de desenvolvimento e iniciar a minha jornada de DEV.
+Tenho experiências em desenvolvimento web na criação de sites e-commerce para grandes lojas nacionais utilizando o framework VTEX. Dessa forma, espero conseguir entrar de vez na área de desenvolvimento e alavancar a minha jornada de DEV.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/eug%C3%A9nio-mateus-5610ba223/)](https://www.linkedin.com/in/eug%C3%A9nio-mateus-5610ba223/)
