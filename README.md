@@ -1,9 +1,10 @@
 # 👋 Olá! Eu sou o Eugénio Mateus
 
-Atualmente atuo como **Analista de Suporte** e sou **fortemente motivado por novos desafios em TI**.  
-Sou **Técnico em Desenvolvimento de Sistemas pelo SENAI de Florianópolis** e atualmente **cursando Tecnólogo em Análise e Desenvolvimento de Sistemas pela UNISUL 🧑🏿‍🎓 (em andamento)**, com foco no fortalecimento da base técnica e na evolução contínua em programação e engenharia de software.
+Profissional de Tecnologia com sólida experiência em suporte técnico, sustentação e evolução de sistemas corporativos, especialmente em ambientes ERP e soluções integradas. Reconhecido pela habilidade em organizar prioridades e gerenciar múltiplas demandas simultaneamente, assegurando indicadores consistentes de performance e alta satisfação dos usuários.
 
-Sou uma pessoa **motivada, dedicada e orientada a resultados**, no momento 100% focada nos estudos e no meu crescimento profissional. Possuo experiência em **desenvolvimento web**, atuando na criação de **e-commerces para grandes lojas nacionais**, utilizando o framework **VTEX**, e busco consolidar minha carreira como **desenvolvedor**.
+Atuo diretamente no atendimento ao cliente, oferecendo suporte técnico especializado e garantindo estabilidade operacional, além de promover melhorias contínuas nos processos. Tenho vivência prática com ferramentas de Service Desk e gestão de chamados, bem como conhecimento avançado em SQL para análise de dados e otimização de sistemas.
+
+Sou uma pessoa **motivada, dedicada e orientada a resultados**, no momento 100% focada nos estudos e no meu crescimento profissional. Tenho experiências em **desenvolvimento web**, atuando na criação de **e-commerces para grandes lojas nacionais**, utilizando o framework **VTEX**.
 
 
 ---
